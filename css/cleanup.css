@@ -1,6 +1,6 @@
 /* write your override styles here */
 
 
-#wall div[id|="tag"] {
+#wall div[id^="tag"] {
   display: none;
 }

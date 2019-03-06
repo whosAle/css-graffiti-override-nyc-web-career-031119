@@ -4,3 +4,7 @@
 #wall div[id^="tag"] {
   display: none;
 }
+
+#wall .tag-1 {
+  display: none;
+}

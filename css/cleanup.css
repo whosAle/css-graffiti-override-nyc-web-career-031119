@@ -1,4 +1,6 @@
 /* write your override styles here */
-div#wall div {
+
+
+div[id|="tag"] {
   display: none;
 }
